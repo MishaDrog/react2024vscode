@@ -8,6 +8,7 @@ import { CHARACTERS } from './components/character/characters'
 
 import './App.css'
 
+
 function App() {
   
   
@@ -27,8 +28,11 @@ function App() {
 
           ))
          }
+        
       
       </div>
+
+
     </>
   )
 }
